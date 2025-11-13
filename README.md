@@ -1,4 +1,4 @@
-# Python-E-Commerce-Customer Retention
+# Churn Prediction & Behavioral Segmentation of a company in the E-Commerce Industry
 
 - Author: Chris Nguyen/ Dinh Khoi Nguyen  
 - Completed date: 2025-Aug-30
